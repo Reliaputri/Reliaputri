@@ -1,0 +1,9 @@
+var text new createjs.Text(
+"happy birthday papaku sayang\ 
+ semoga panjang umur sehat selalu ya pa ",
+"bold 24px Arial", "#fff");
+text.textAlign = "center";
+text.x = w/ 2;
+text.yh/2 text.
+getMeasuredLineHeight();
+stage.addChild(text);
